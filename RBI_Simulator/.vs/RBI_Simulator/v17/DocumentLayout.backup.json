@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\HeadlessBrowserEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:HeadlessBrowserEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\HeadlessBrowserEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:HeadlessBrowserEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ClientBrowser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:ClientBrowser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ClientBrowser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:ClientBrowser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\UrlRequest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:UrlRequest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\TcpCommunicator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:TcpCommunicator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\RBIService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:RBIService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\IUrlRequest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:IUrlRequest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ICommunicator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:ICommunicator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\UrlRequest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:UrlRequest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\RBIService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:RBIService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\IBrowserEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:IBrowserEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\TcpCommunicator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7C73CE-30BD-442A-AECD-91E9BA07DF49}|RBI_Simulator.vcxproj|solutionrelative:TcpCommunicator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientBrowser.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ClientBrowser.cpp",
+              "RelativeDocumentMoniker": "ClientBrowser.cpp",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ClientBrowser.cpp",
+              "RelativeToolTip": "ClientBrowser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T07:46:27.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeadlessBrowserEngine.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\HeadlessBrowserEngine.cpp",
+              "RelativeDocumentMoniker": "HeadlessBrowserEngine.cpp",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\HeadlessBrowserEngine.cpp",
+              "RelativeToolTip": "HeadlessBrowserEngine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T07:44:53.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TcpCommunicator.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\TcpCommunicator.cpp",
+              "RelativeDocumentMoniker": "TcpCommunicator.cpp",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\TcpCommunicator.cpp",
+              "RelativeToolTip": "TcpCommunicator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T07:39:18.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommunicator.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ICommunicator.h",
+              "RelativeDocumentMoniker": "ICommunicator.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ICommunicator.h",
+              "RelativeToolTip": "ICommunicator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:47:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientBrowser.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ClientBrowser.h",
+              "RelativeDocumentMoniker": "ClientBrowser.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\ClientBrowser.h",
+              "RelativeToolTip": "ClientBrowser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:42:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RBIService.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\RBIService.h",
+              "RelativeDocumentMoniker": "RBIService.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\RBIService.h",
+              "RelativeToolTip": "RBIService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:41:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T16:37:29.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlRequest.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\UrlRequest.h",
+              "RelativeDocumentMoniker": "UrlRequest.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\UrlRequest.h",
+              "RelativeToolTip": "UrlRequest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:41:02.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUrlRequest.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\IUrlRequest.h",
+              "RelativeDocumentMoniker": "IUrlRequest.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\IUrlRequest.h",
+              "RelativeToolTip": "IUrlRequest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:46:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeadlessBrowserEngine.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\HeadlessBrowserEngine.h",
+              "RelativeDocumentMoniker": "HeadlessBrowserEngine.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\HeadlessBrowserEngine.h",
+              "RelativeToolTip": "HeadlessBrowserEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:41:33.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrlRequest.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\UrlRequest.cpp",
+              "RelativeDocumentMoniker": "UrlRequest.cpp",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\UrlRequest.cpp",
+              "RelativeToolTip": "UrlRequest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T07:46:33.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RBIService.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\RBIService.cpp",
+              "RelativeDocumentMoniker": "RBIService.cpp",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\RBIService.cpp",
+              "RelativeToolTip": "RBIService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T07:45:28.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBrowserEngine.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\IBrowserEngine.h",
+              "RelativeDocumentMoniker": "IBrowserEngine.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\IBrowserEngine.h",
+              "RelativeToolTip": "IBrowserEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:46:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TcpCommunicator.h",
+              "DocumentMoniker": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\TcpCommunicator.h",
+              "RelativeDocumentMoniker": "TcpCommunicator.h",
+              "ToolTip": "C:\\Users\\johnm\\Documents\\Projects\\RBI\\RBI_Simulator\\TcpCommunicator.h",
+              "RelativeToolTip": "TcpCommunicator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T16:41:15.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
